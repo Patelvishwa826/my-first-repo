@@ -1,0 +1,6 @@
+a=input("Enter a=")
+b=input("Enter b=")
+c=a+b
+print("value of a=",a)
+print("value of b=,b)
+print("sum=,c)

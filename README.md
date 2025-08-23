@@ -1,2 +1,2 @@
-# my-first--repo
+# my-first-repo
 Welcome to my world. 
